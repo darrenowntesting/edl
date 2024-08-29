@@ -1,3 +1,4 @@
 abc.com
 xyz.com
 yahoo.com
+*.org
