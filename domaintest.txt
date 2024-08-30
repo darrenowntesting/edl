@@ -2,3 +2,5 @@ abc.com
 xyz.com
 yahoo.com
 *.org
+watchdisneyfe.com
+gen.xyz
